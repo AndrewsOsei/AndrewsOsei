@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewsOsei
 - 👀 I’m interested in minerals processing and programming.
-- 🌱 I’m currently learning programming.
+- 🌱 I’m currently learning programming (20145608).
 - 💞️ I’m looking to collaborate on machine learning and data modelling projects
 - 📫 How to reach me? email me on oseiandrews@hotmail.com
 - 😄 Pronouns:...
